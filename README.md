@@ -1,6 +1,5 @@
 ### Hi, I'm Ana Paula 👋😄
 
-- 🔭 I’m currently working on MonkeyFit
 - 🖥 Backend Developer specialized Python
 - 🌱 Environmentalist 
 - 📫 How to reach me: 
