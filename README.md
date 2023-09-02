@@ -1,6 +1,6 @@
 ### Hi, I'm Ana Paula 👋😄
 
-- 🖥 Backend Developer specialized Python
+- 🖥 Python Backend Developer
 - 🌱 Environmentalist 
 - 📫 How to reach me: 
 <!-- **anisantillans** is a ✨ _special_ ✨  repository because its `README.md` (this file) appears on your GitHub profile.  -->
